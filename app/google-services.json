@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70751736879",
+    "project_id": "firestoref55122026-9518f",
+    "storage_bucket": "firestoref55122026-9518f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70751736879:android:39aa05e5a0d23bb38362da",
+        "android_client_info": {
+          "package_name": "com.percobaan8.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6gph-rY_PkhOxczD_tNnS1Lub0z05u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
